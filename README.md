@@ -2,7 +2,8 @@
 Flutter 2.0 学习
 
 #### 学习目标
-
+##### Web
++ [Web](https://flutter.cn/docs/get-started/web)
 
 #### 入门资料
 - [Flutter 社区中文资源](https://flutter.cn/)
