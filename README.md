@@ -2,6 +2,13 @@
 Flutter 2.0 学习
 
 #### 学习目标
++ Flutter开发Android/IOS
++ Flutter开发Web
+  + Desktop页面很难看
++ Flutter多媒体，WebRTC等
+
+##### Web
++ [Web](https://flutter.cn/docs/get-started/web)
 
 #### 入门资料
 + [DartTutorial](https://github.com/feixiao/DartTutorial)
